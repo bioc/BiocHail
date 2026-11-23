@@ -1,7 +1,7 @@
 Package: BiocHail
 Date: 2026-11-16
 Title: basilisk and hail
-Version: 1.14.0
+Version: 1.15.0
 Authors@R: 
     c(person(
         "Vincent", "Carey", role = c("aut", "cre"),
